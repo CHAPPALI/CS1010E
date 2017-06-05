@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1479917377 source:c:\program files (x86)\codeblocks\mingw\c_programs\magic.c\main.c
+	<stdio.h>
+

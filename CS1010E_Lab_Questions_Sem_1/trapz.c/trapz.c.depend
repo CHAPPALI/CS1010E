@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477570626 source:c:\program files (x86)\codeblocks\mingw\c_programs\trapz.c\main.c
+	<stdio.h>
+	<math.h>
+

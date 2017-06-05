@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1476339645 source:c:\program files (x86)\codeblocks\mingw\c_programs\plot\main.c
+	<math.h>
+	<stdio.h>
+
+1476714083 source:c:\program files (x86)\codeblocks\mingw\c_programs\plot.c\main.c
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1475654595 source:c:\program files (x86)\codeblocks\mingw\c_programs\faries\root2.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1475767693 source:c:\program files (x86)\codeblocks\mingw\c_programs\root1.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1475766838 source:c:\program files (x86)\codeblocks\mingw\c_programs\root1.c\root6.c
+
